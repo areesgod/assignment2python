@@ -3,4 +3,4 @@ from bs4 import BeautifulSoup
 import requests
 text = input()
 betObj = List()
-betObj.Paragraph(text)
+betObj.Paragraph(texst)
