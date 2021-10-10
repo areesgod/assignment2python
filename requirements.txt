@@ -1,0 +1,3 @@
+In order to install requests and BeautifulSoup libraries, you need to use following commands in your terminal
+- pip install requests
+- pip install BeautifulSoup
